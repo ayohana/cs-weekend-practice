@@ -1,0 +1,11 @@
+C:\Users\Adela\Desktop\meal-time\bin\Debug\netcoreapp2.2\MealTime.deps.json
+C:\Users\Adela\Desktop\meal-time\bin\Debug\netcoreapp2.2\MealTime.runtimeconfig.json
+C:\Users\Adela\Desktop\meal-time\bin\Debug\netcoreapp2.2\MealTime.runtimeconfig.dev.json
+C:\Users\Adela\Desktop\meal-time\bin\Debug\netcoreapp2.2\MealTime.dll
+C:\Users\Adela\Desktop\meal-time\bin\Debug\netcoreapp2.2\MealTime.pdb
+C:\Users\Adela\Desktop\meal-time\obj\Debug\netcoreapp2.2\MealTime.csprojAssemblyReference.cache
+C:\Users\Adela\Desktop\meal-time\obj\Debug\netcoreapp2.2\MealTime.csproj.CoreCompileInputs.cache
+C:\Users\Adela\Desktop\meal-time\obj\Debug\netcoreapp2.2\MealTime.AssemblyInfoInputs.cache
+C:\Users\Adela\Desktop\meal-time\obj\Debug\netcoreapp2.2\MealTime.AssemblyInfo.cs
+C:\Users\Adela\Desktop\meal-time\obj\Debug\netcoreapp2.2\MealTime.dll
+C:\Users\Adela\Desktop\meal-time\obj\Debug\netcoreapp2.2\MealTime.pdb
